@@ -426,8 +426,8 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-- GitHub: [@exploring-curiosity](https://github.com/exploring-curiosity)
-- Project: [OpenBenchPublisher](https://github.com/exploring-curiosity/OpenBenchPublisher)
+- GitHub: [@exploring-curiosity](https://github.com/vaishnavi121999)
+- Project: [OpenBenchPublisher](https://github.com/vaishnavi121999/OpenBenchPublisher)
 
 ---
 
